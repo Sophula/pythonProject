@@ -1,4 +1,4 @@
-# Assignment no.5
+# Assignment no. 5
 
 Write programs using boto3 modules with resources available in lecture. Make small description regarding the idea behind how each program works.
 Lambda function code can be found here:
